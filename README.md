@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sesocell
-- 👀 I’m interested in lua
+- 👀 I’m interested in lua, python
 - 🌱 I’m currently learning typescript
-- 📫 @sesocell discord / twitter anywherelol
+- 📫 @sesocell discord / twitter anywhere
 
 <!---
 sesocell/sesocell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
