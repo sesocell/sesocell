@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @sesocellzz
 - 👀 I’m interested in lua, python
 - 🌱 I’m currently learning typescript
 - 📫 @sesocell discord / twitter anywhere
