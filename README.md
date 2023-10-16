@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sesocell
-- 👀 I’m interested in lua
+- 👀 I’m interested in lua, python
 - 🌱 I’m currently learning typescript
 - 📫 @sesocell discord / twitter anywhere
 
