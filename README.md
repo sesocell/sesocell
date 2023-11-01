@@ -17,7 +17,6 @@ Hi there, I'm a game developer from Turkey! I have game development experience w
           
 ### 📈 Some Statistics
 ![sesocell's github stats](https://github-readme-stats.vercel.app/api?username=sesocell&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sesocell&theme=tokyonight" alt="mystreak"/>
 
  
 ### 📞Contact Me
