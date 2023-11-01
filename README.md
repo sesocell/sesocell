@@ -18,9 +18,7 @@ Hi there, I'm a game developer from Turkey! I have game development experience w
 ### 📈 Some Statistics
 ![sesocell's github stats](https://github-readme-stats.vercel.app/api?username=sesocell&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sesocell&theme=tokyonight" alt="mystreak"/>
- ![sesocell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sesocell&theme=tokyonight&layout=compact)   
- 
-[![wakatime](https://wakatime.com/badge/user/018b8b3c-7ea7-46d8-870c-16c02bf61087.svg)]([https://wakatime.com/@abac67d0-0235-467c-ae23-276308f1f014](https://wakatime.com/badge/user/018b8b3c-7ea7-46d8-870c-16c02bf61087.svg))   
+
  
 ### 📞Contact Me
 <a href="https://twitter.com/sesocell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sesocell" height="30" width="40" /></a>
