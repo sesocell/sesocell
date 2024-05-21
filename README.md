@@ -1,3 +1,17 @@
-### 📞Contact Me
-<a href="https://twitter.com/sesocell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sesocell" height="30" width="40" /></a>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/MvovQGsMBY9H2/giphy.gif" width="100"/>
+</div>
+
+---
+
+### 🥳 About Me :
+
+👋 Hello, I’m @sesocell
+- 👀 I’m interested in lua
+- 🌱 I’m currently learning typescript
+- 📫 @sesocell
+
+
+---
+### :hammer_and_wrench: Languages and Tools :
+[![My Skills](https://skillicons.dev/icons?i=cpp,discord,github,vscode,lua,robloxstudio)](https://skillicons.dev)
