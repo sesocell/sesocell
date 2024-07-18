@@ -14,4 +14,4 @@
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=cpp,discord,github,vscode,lua,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,discord,github,lua)](https://skillicons.dev)
