@@ -4,7 +4,7 @@
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
-[![gpg](https://img.shields.io/badge/pgp-3E4E41CBA53A8BEB-313131?style=flat&labelColor=545454&color=313131)](https://github.com/sesocell.gpg) [![views](https://komarev.com/ghpvc/?username=sesocell&style=flat&color=313131&label=views)](https://github.com/sesocell)
+[![gpg](https://img.shields.io/badge/pgp-D7E6F549DF489AB8-313131?style=flat&labelColor=545454&color=313131)](https://github.com/sesocell.gpg) [![views](https://komarev.com/ghpvc/?username=sesocell&style=flat&color=313131&label=views)](https://github.com/sesocell)
 
 <br>
 
