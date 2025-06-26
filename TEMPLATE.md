@@ -10,6 +10,6 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 Ever since I joined GitHub **2** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-Junior Linux kernel engineer obsessed with efficiency and micro optimization. Currently, I'm learning C, Linux, XDP, and go. I'm always looking for ways to make my code and systems run faster and more efficiently.
+Junior Linux kernel engineer obsessed with efficiency and micro optimization. Currently, I'm learning C and Linux. I'm always looking for ways to make my code and systems run faster and more efficiently.
 
 Discord: `semihdev`
