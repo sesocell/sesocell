@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
+I'm semih and i enjoy writing code and building projects.
 
 [![gpg](https://img.shields.io/badge/pgp-D7E6F549DF489AB8-313131?style=flat&labelColor=545454&color=313131)](https://github.com/sesocell.gpg) [![views](https://komarev.com/ghpvc/?username=sesocell&style=flat&color=313131&label=views)](https://github.com/sesocell)
 
@@ -10,6 +10,9 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 Ever since I joined GitHub **2** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-Junior Linux kernel engineer obsessed with efficiency and micro optimization. Currently, I'm learning C and Linux. I'm always looking for ways to make my code and systems run faster and more efficiently.
+I'm currently learning C and i enjoy working on open source projects.
+
+### Some languages I know
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23121011.svg?style=for-the-badge&logo=python&logoColor=white)
 
 Discord: `semihdev`
