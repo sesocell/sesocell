@@ -8,9 +8,9 @@ I'm semih and i enjoy writing code and building projects.
 
 <br>
 
-Ever since I joined GitHub **2** years ago, I pushed **330** commits, opened **0** issues, submitted **8** pull requests, received **1** stars across **1** personal projects, and contributed to **7** public repositories.
+Ever since I joined GitHub **2** years ago, I pushed **331** commits, opened **0** issues, submitted **8** pull requests, received **1** stars across **1** personal projects, and contributed to **7** public repositories.
 
-I'm currently learning C and i enjoy working on open source projects.
+I'm currently learning C and i work on open source projects.
 
 ### Some languages I know
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23121011.svg?style=for-the-badge&logo=python&logoColor=white)
