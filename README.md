@@ -8,7 +8,7 @@ I'm semih and i enjoy writing code and building projects.
 
 <br>
 
-Ever since I joined GitHub **2** years ago, I pushed **419** commits, opened **0** issues, submitted **10** pull requests, received **1** stars across **1** personal projects, and contributed to **5** public repositories.
+Ever since I joined GitHub **2** years ago, I pushed **420** commits, opened **0** issues, submitted **10** pull requests, received **1** stars across **1** personal projects, and contributed to **5** public repositories.
 
 I'm currently learning C and i work on open source projects.
 
@@ -16,5 +16,3 @@ I'm currently learning C and i work on open source projects.
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23121011.svg?style=for-the-badge&logo=python&logoColor=white)
 
 Discord: `sesocell`
-
-<p align="center"> <img src="https://raw.githubusercontent.com/saveside/saveside/refs/heads/main/banner-3.png" alt="Save Banner"/> </p>
