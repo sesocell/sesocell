@@ -8,7 +8,7 @@ I'm semih and i enjoy writing code and building projects.
 
 <br>
 
-Ever since I joined GitHub **2** years ago, I pushed **540** commits, opened **0** issues, submitted **11** pull requests, received **1** stars across **1** personal projects, and contributed to **6** public repositories.
+Ever since I joined GitHub **2** years ago, I pushed **543** commits, opened **0** issues, submitted **11** pull requests, received **1** stars across **1** personal projects, and contributed to **6** public repositories.
 
 I'm currently learning C and i work on open source projects.
 
